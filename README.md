@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/lofelippes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lofelippes&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lofelippes&layout=compact&langs_count=6&theme=material-palenight"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lofelippes&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lofelippes&layout=compact&langs_count=6&theme=material-palenight"/>
 </div>
 <img src="https://img.freepik.com/premium-photo/cute-laptop-drawing-design-good-social-media-presentations-more_881317-607.jpg" alt="ilustração de um computador" min-width="300px" max-width="300px" width="400px" align="right">
 <div style="display: inline_block"><br>
