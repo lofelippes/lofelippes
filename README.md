@@ -1,7 +1,7 @@
 <h1>🦄 Bem-vinda(o)</h1>
  <div>
    <a href="https://github.com/lofelippes">
-   <img src="https://img.freepik.com/premium-photo/cute-laptop-drawing-design-good-social-media-presentations-more_881317-607.jpg" alt="ilustração de um computador" min-width="300px" max-width="200px" width="300px" align="left">
+   <img src="https://img.freepik.com/premium-photo/cute-laptop-drawing-design-good-social-media-presentations-more_881317-607.jpg" alt="ilustração de um computador" min-width="300px" max-width="200px" width="300px" align="rigth">
  </div>
   <div>
    <p align="justify">Motivada e apaixonada por tecnologia estou atualmente em transição de carreira, cursando Análise e Desenvolvimento de Sistemas.
@@ -11,7 +11,6 @@
 
 <div style="display: inline_block"><br/>
    <h4>✨Habilidades:</h4>
- <br/>
  <br/>
   <img align="center" alt="Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
