@@ -5,7 +5,7 @@
  </div>
   <div>
    <p align="justify">Motivada e apaixonada por tecnologia estou atualmente em transição de carreira, cursando Análise e Desenvolvimento de Sistemas.
-   Você pode encontrar por aqui projetos da faculdade, de cursos, e até os idealizados por mim.
+   Você pode encontrar por aqui meus projetos.
    </p>
  </div>
 
