@@ -2,7 +2,7 @@
 <h1>🦄 Bem-vinda(o)</h1>
  <div>
    <a href="https://github.com/lofelippes">
-   <background-image url="https://img.freepik.com/premium-photo/cute-laptop-drawing-design-good-social-media-presentations-more_881317-607.jpg" alt="ilustração de um computador" min-width="300px" max-width="300px" width="400px" opacity="0.3">
+   <background-image url=("https://img.freepik.com/premium-photo/cute-laptop-drawing-design-good-social-media-presentations-more_881317-607.jpg") alt="ilustração de um computador" min-width="300px" max-width="300px" width="400px" opacity="0.3">
  </div>
   <div>
    <p align="justify">Motivada e apaixonada por tecnologia estou atualmente em transição de carreira, cursando Análise e Desenvolvimento de Sistemas.
